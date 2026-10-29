@@ -1,26 +1,34 @@
-# 🌐 Meu Site Pessoal
+# 🌐 Personal Website
 
-Este é o início do meu site pessoal, desenvolvido com HTML, CSS e JavaScript puro. O objetivo é criar uma página simples, bonita e funcional para me apresentar como estudante de Ciência da Computação e entusiasta da área de dados.
+This is the beginning of my personal website, built with vanilla HTML, CSS and JavaScript. The goal is to create a simple, clean and functional page to introduce myself as a Computer Science student and data enthusiast.
 
-## ✨ Funcionalidades atuais
+## ✨ Current features
 
-- Tema claro/escuro (🌙 alternável)
-- Estilo visual limpo com fonte Arial
-- Design responsivo e moderno
-- Navegação básica com conteúdo "sobre mim"
+- Light/dark theme (🌙 toggleable)
+- Clean visual style with Arial font
+- Responsive and modern design
+- Basic navigation with an "about me" section
 
-## 🚧 Em desenvolvimento
+## 🚧 In progress
 
-Futuramente pretendo adicionar:
+Upcoming additions:
 
-- Seção de projetos e portfólio
-- Página de contato com formulário
-- Animações suaves com JavaScript ou bibliotecas
+- Projects and portfolio section
+- Contact page with a form
+- Smooth animations with JavaScript or libraries
 
-## 🛠️ Tecnologias usadas
+## 🛠️ Technologies
 
 - HTML5
 - CSS3
 - JavaScript (vanilla)
+
+## ▶️ How to run
+
+Clone the repository and open `index.html` in your browser:
+
+```bash
+git clone https://github.com/jprudencio1/Personal-Website.git
+cd Personal-Website
 
 
